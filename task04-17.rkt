@@ -4,5 +4,5 @@
       (L3 '(df FG HJ K L (O 0 9))))
   (list
    (caddr L1)
-   (caadr L2)
-   (caaddr (cdddr L3))))
+   (cadddr L2)
+   (caddr (cdddr L3))))
